@@ -1,2 +1,5 @@
-hello yogesh
-my name is yogeshwar
+<html>
+<body>
+<form method=get action="Calculate.php">
+enter first value:<INPUT type=text name="a"><br> enter	first	value:<INPUT	type=text name="b"><br><INPUTtype=submit>
+</form></body></html>
